@@ -1,0 +1,141 @@
+# Ignore Visual Studio temporary files, build results, and
+# package files.
+
+# User-specific files
+.vs/
+DockerDotNetApp/*.rsuser
+DockerDotNetApp/*.suo
+DockerDotNetApp/*.user
+DockerDotNetApp/*.userosscache
+DockerDotNetApp/*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+DockerDotNetApp/mono_crash.*
+
+# User-specific files (Visual Studio Code)
+DockerDotNetApp/.vscode/*
+!DockerDotNetApp/.vscode/settings.json
+!DockerDotNetApp/.vscode/tasks.json
+!DockerDotNetApp/.vscode/launch.json
+!DockerDotNetApp/.vscode/extensions.json
+
+# User-specific files (JetBrains Rider)
+DockerDotNetApp/.idea/
+DockerDotNetApp/*.sublime-project
+DockerDotNetApp/*.sublime-workspace
+
+# User-specific files (CodeLite)
+DockerDotNetApp/*.tags
+DockerDotNetApp/*.tags1
+DockerDotNetApp/*.tags2
+
+# Mono Auto Generated Files
+DockerDotNetApp/mono_crash.*
+
+# Windows image file caches
+DockerDotNetApp/Thumbs.db
+DockerDotNetApp/ehthumbs.db
+
+# Folder config file
+DockerDotNetApp/Desktop.ini
+
+# Recycle Bin used on file shares
+DockerDotNetApp/$RECYCLE.BIN/
+
+# VS Code directories
+DockerDotNetApp/.vscode/
+DockerDotNetApp/.vscode-cache/
+
+# Build results
+DockerDotNetApp/[Dd]ebug/
+DockerDotNetApp/[Dd]ebugPublic/
+DockerDotNetApp/[Rr]elease/
+DockerDotNetApp/[Rr]eleases/
+DockerDotNetApp/x64/
+DockerDotNetApp/x86/
+DockerDotNetApp/[Aa][Rr][Mm]/
+DockerDotNetApp/[Aa][Rr][Mm]64/
+DockerDotNetApp/bld/
+DockerDotNetApp/[Bb]in/
+DockerDotNetApp/[Oo]bj/
+DockerDotNetApp/[Ll]og/
+DockerDotNetApp/[Ll]ogs/
+
+# Rider
+DockerDotNetApp/.idea/
+
+# C++ files generated from templates
+DockerDotNetApp/*.gch
+DockerDotNetApp/*.pch
+
+# Windows specific files
+DockerDotNetApp/*.manifest
+DockerDotNetApp/*.rc
+
+# DotNet specific
+DockerDotNetApp/project.lock.json
+DockerDotNetApp/project.fragment.lock.json
+DockerDotNetApp/artifacts/
+DockerDotNetApp/*.builds
+DockerDotNetApp/*.pidb
+DockerDotNetApp/*.pdb
+
+# ASP.NET Scaffolding
+DockerDotNetApp/ScaffoldingReadMe.txt
+
+# StyleCop
+DockerDotNetApp/*.stylecop
+
+# TeamCity
+DockerDotNetApp/_TeamCity/
+
+# MSTest test Results
+DockerDotNetApp/[Tt]est[Rr]esult*/
+
+# JetBrains Rider
+DockerDotNetApp/.idea/
+DockerDotNetApp/.idea/*
+
+# DotNet specific
+DockerDotNetApp/project.lock.json
+DockerDotNetApp/project.fragment.lock.json
+DockerDotNetApp/artifacts/
+
+# ASP.NET Scaffolding
+DockerDotNetApp/ScaffoldingReadMe.txt
+
+# StyleCop
+DockerDotNetApp/*.stylecop
+
+# TeamCity
+DockerDotNetApp/_TeamCity/
+
+# DotNet specific
+DockerDotNetApp/project.lock.json
+DockerDotNetApp/project.fragment.lock.json
+DockerDotNetApp/artifacts/
+
+# ASP.NET Scaffolding
+DockerDotNetApp/ScaffoldingReadMe.txt
+
+# StyleCop
+DockerDotNetApp/*.stylecop
+
+# TeamCity
+DockerDotNetApp/_TeamCity/
+
+# Test Results
+DockerDotNetApp/[Tt]est[Rr]esult*/
+
+# WCF
+DockerDotNetApp/*.svcinfo
+DockerDotNetApp/*.svcmap
+DockerDotNetApp/*.svcrefs
+DockerDotNetApp/Reference.svcmap
+
+# Web specific
+DockerDotNetApp/clientbin/
+DockerDotNetApp/csx/
+DockerDotNetApp/obj/
+DockerDotNetApp/out/
+DockerDotNetApp/Properties/PublishProfiles/
