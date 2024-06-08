@@ -2,7 +2,7 @@
 
 ## Imagenes oficiales de .NET SDK: https://hub.docker.com/_/microsoft-dotnet-sdk/
 
-# Imagen de .NET 3.1: mcr.microsoft.com/dotnet/core/sdk:3.1
+## Imagen de .NET 3.1: podman pull mcr.microsoft.com/dotnet/core/sdk:3.1
 
 Proyecto para colocar en un contenedor un proyecto de .NET 8 y ejecutarlo usando PODMAN, video de referencia: https://www.youtube.com/watch?v=8WO-WlZ9NoA&list=WL&index=1
 
