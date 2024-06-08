@@ -1,7 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // Configurar el puerto directamente
-// builder.WebHost.UseUrls("http://*:5024");
+builder.WebHost.UseUrls("http://*:5024");
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
